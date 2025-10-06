@@ -1,2 +1,0 @@
-# Asistencia
-Implementacion ORM
